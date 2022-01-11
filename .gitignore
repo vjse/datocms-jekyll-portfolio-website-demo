@@ -1,5 +1,4 @@
 .env
-.jekyll-metadata
 npm-debug.log
 src/.jekyll-cache
 src/_data
@@ -7,5 +6,4 @@ src/_works
 src/about.md
 src/index.md
 src/assets
-public
 node_modules
